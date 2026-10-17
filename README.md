@@ -2,6 +2,11 @@
 
 Built in 2026 as a portfolio project. Demonstrates skills used in my logistics / automotive AI roles.
 
+| | |
+|---|---|
+| **Portfolio schedule** | 3–16 Mar 2025 |
+| **CV experience alignment** | TP Cargo — Oct 2024–May 2025 |
+
 Theme: logistics pricing AI — predict lane rates from historical features.
 
 > **Honest note:** `data/sample_rates.csv` is **synthetic** for demo purposes, not real carrier tariffs.
