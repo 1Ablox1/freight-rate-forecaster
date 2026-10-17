@@ -43,4 +43,4 @@ curl -X POST http://127.0.0.1:8002/predict -H "Content-Type: application/json" -
 
 ## License
 
-MIT — Abdalla Abdelsamie (2026).
+[MIT](LICENSE)
