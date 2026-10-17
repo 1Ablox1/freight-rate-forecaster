@@ -1,0 +1,7 @@
+{
+  "model_version": "rf-v1",
+  "mae": 37.379,
+  "rmse": 53.825,
+  "n_train": 2625,
+  "n_test": 657
+}
